@@ -1,0 +1,6 @@
+{
+  "name": "RAAH - A Path to Career",
+  "description": "Personalized 4-year career guidance and learning platform for B.Tech Computer Science Engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
